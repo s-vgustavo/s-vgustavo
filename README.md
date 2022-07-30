@@ -1,0 +1,5 @@
+- 🐼 Hi, I’m @s-vgustavo
+- 👀 I’m interested in Data Analytics and Data Science.
+- 🌱 I’m currently learning Python, Machine Learning, Power BI/Tableau and MySQL.
+- 🤹 I’m looking to collaborate on volunteering projects or junior positions.
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/gustavo-venancio/">LinkedIn</a>.
