@@ -1,10 +1,10 @@
 <h1> Hi, I’m @s-vgustavo 🐼</h1>
 
-- 👀 I’m interested in Data Analytics and Data Science. I'm a student at <a href="https://edumi.com.br/"> Edumi </a>.
+-  Data analyst interested in data science and machine learning.
 
-- 🌱 I’m currently learning Python, Machine Learning, Power BI/Tableau and MySQL.
+- 🌱 My main stacks are Python, SQL and Power BI. I can also do some nice things using Google Sheets.
 
-- 🤹 I’m looking to collaborate on volunteering projects or junior positions.
+- 🤹 I’m looking to collaborate on volunteering projects or junior positions. Currently, I'm working as Jr. Business Intelligence Analyst at <a href="https://edumi.com.br/"> Edumi </a>.
 
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/gustavo-venancio/">LinkedIn</a>.
 
